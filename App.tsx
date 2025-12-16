@@ -170,7 +170,7 @@ export default function App() {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold font-burmese">M</span>
             </div>
-            <h1 className="font-bold text-slate-800 text-lg sm:text-xl hidden sm:block">Burmese Interlinear</h1>
+            <h1 className="font-bold text-slate-800 text-lg sm:text-xl hidden sm:block">Burmese Translator</h1>
           </div>
           
           <div className="flex items-center gap-4">
